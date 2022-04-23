@@ -1,0 +1,3 @@
+C:\Users\lolop\source\repos\parket\parket\Debug\parket.vcxprojAssemblyReference.cache
+C:\Users\lolop\source\repos\parket\parket\Debug\parket.Form1.resources
+C:\Users\lolop\source\repos\parket\parket\Debug\parket.vcxproj.GenerateResource.cache

@@ -1,0 +1,2 @@
+C:\Users\lolop\source\repos\parket\parket\Release\parket.Form1.resources
+C:\Users\lolop\source\repos\parket\parket\Release\parket.vcxproj.GenerateResource.cache
