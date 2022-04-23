@@ -1,0 +1,10 @@
+C:\Users\lolop\source\repos\CripTest\CripTest\bin\Debug\CripTest.exe.config
+C:\Users\lolop\source\repos\CripTest\CripTest\bin\Debug\CripTest.exe
+C:\Users\lolop\source\repos\CripTest\CripTest\bin\Debug\CripTest.pdb
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.csprojAssemblyReference.cache
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.Form1.resources
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.Properties.Resources.resources
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.csproj.GenerateResource.cache
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.csproj.CoreCompileInputs.cache
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.exe
+C:\Users\lolop\source\repos\CripTest\CripTest\obj\Debug\CripTest.pdb
